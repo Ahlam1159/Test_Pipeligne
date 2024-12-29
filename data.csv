@@ -1,0 +1,101 @@
+id,name,age,city,salary
+1,Name_1,32,Phoenix,106182.33
+2,Name_2,53,Phoenix,78443.21
+3,Name_3,35,Phoenix,75971.42
+4,Name_4,43,Chicago,118133.78
+5,Name_5,40,Los Angeles,72796.86
+6,Name_6,47,Chicago,86738.78
+7,Name_7,53,Chicago,81654.15
+8,Name_8,38,Houston,88863.4
+9,Name_9,45,New York,49941.45
+10,Name_10,21,New York,107202.67
+11,Name_11,39,Houston,109594.15
+12,Name_12,28,Houston,30292.74
+13,Name_13,25,New York,44545.85
+14,Name_14,57,Phoenix,58437.84
+15,Name_15,29,Houston,35140.1
+16,Name_16,34,Los Angeles,63345.36
+17,Name_17,38,Chicago,49291.3
+18,Name_18,27,Houston,42316.16
+19,Name_19,40,Chicago,38148.82
+20,Name_20,45,Los Angeles,88631.94
+21,Name_21,25,Phoenix,40794.8
+22,Name_22,58,Los Angeles,63831.48
+23,Name_23,51,Chicago,106923.17
+24,Name_24,48,New York,113204.13
+25,Name_25,49,Houston,41244.68
+26,Name_26,57,Phoenix,42315.42
+27,Name_27,32,Los Angeles,85893.45
+28,Name_28,54,New York,104645.61
+29,Name_29,55,New York,85990.26
+30,Name_30,34,Los Angeles,86000.7
+31,Name_31,36,New York,96782.8
+32,Name_32,49,Houston,74541.15
+33,Name_33,42,Chicago,54881.54
+34,Name_34,47,Phoenix,73539.29
+35,Name_35,46,Houston,83481.98
+36,Name_36,32,New York,46335.93
+37,Name_37,22,Houston,103395.95
+38,Name_38,22,New York,48173.01
+39,Name_39,36,Chicago,117295.25
+40,Name_40,40,New York,78254.91
+41,Name_41,50,Phoenix,111751.78
+42,Name_42,42,Houston,115513.21
+43,Name_43,39,Los Angeles,85675.7
+44,Name_44,47,Los Angeles,95636.26
+45,Name_45,56,Los Angeles,42053.07
+46,Name_46,34,Phoenix,61694.89
+47,Name_47,55,Phoenix,113686.21
+48,Name_48,57,Houston,95277.55
+49,Name_49,34,New York,47492.73
+50,Name_50,48,Houston,62287.96
+51,Name_51,32,Phoenix,103952.27
+52,Name_52,29,Los Angeles,74760.04
+53,Name_53,20,New York,88410.81
+54,Name_54,23,New York,84806.95
+55,Name_55,44,Chicago,35824.98
+56,Name_56,22,Chicago,53714.12
+57,Name_57,32,Chicago,34449.72
+58,Name_58,32,Houston,79595.61
+59,Name_59,32,Houston,105733.77
+60,Name_60,48,Phoenix,95042.61
+61,Name_61,27,Chicago,114197.74
+62,Name_62,45,Los Angeles,49989.82
+63,Name_63,43,New York,48710.05
+64,Name_64,45,Los Angeles,61867.63
+65,Name_65,30,New York,39023.18
+66,Name_66,51,Houston,118968.68
+67,Name_67,37,Los Angeles,42907.68
+68,Name_68,27,Phoenix,82435.6
+69,Name_69,19,Houston,81118.59
+70,Name_70,24,Chicago,83447.79
+71,Name_71,27,Houston,57515.06
+72,Name_72,19,New York,102932.72
+73,Name_73,50,Houston,62615.42
+74,Name_74,34,New York,89490.28
+75,Name_75,48,New York,112974.28
+76,Name_76,47,Los Angeles,53314.03
+77,Name_77,53,New York,88135.75
+78,Name_78,55,Los Angeles,71128.41
+79,Name_79,58,New York,105991.95
+80,Name_80,25,Chicago,85473.43
+81,Name_81,27,Houston,52329.41
+82,Name_82,45,New York,40375.97
+83,Name_83,19,New York,49000.03
+84,Name_84,50,Los Angeles,106248.68
+85,Name_85,57,Houston,30911.24
+86,Name_86,49,New York,47170.94
+87,Name_87,27,Chicago,37822.2
+88,Name_88,49,Chicago,115486.93
+89,Name_89,40,Los Angeles,83166.2
+90,Name_90,38,Houston,40550.26
+91,Name_91,40,New York,38866.41
+92,Name_92,25,Chicago,38303.46
+93,Name_93,24,Los Angeles,48438.32
+94,Name_94,45,Houston,70963.54
+95,Name_95,21,New York,97264.41
+96,Name_96,24,Houston,58719.75
+97,Name_97,29,Houston,46573.22
+98,Name_98,29,New York,62455.3
+99,Name_99,24,Houston,81543.63
+100,Name_100,40,New York,119052.31

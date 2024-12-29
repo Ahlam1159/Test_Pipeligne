@@ -1,0 +1,6 @@
+pandas
+numpy
+sqlite3
+unittest
+pytest
+pytest-html
